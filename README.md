@@ -25,8 +25,8 @@ $ git clone https://github.com/breatheco-de/exercise-conditional-profile-card.gi
 3. Install NPM packages: `npm install`
 
 Note: if you're using c9 make sure you are running in the latest version of node: 
-
-4. Build for the first time: `npm run start`
+npm run start`
+4. Build for the first time: `
 
 5. Start updating the `render` function inside the `app.js` file.
 
